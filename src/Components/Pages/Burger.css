@@ -1,0 +1,146 @@
+*{
+    font-family: sans-serif;
+}
+/* Navbar css */
+.navbgbtn1{
+    background-color: rgb(240, 215, 215);
+    color: red;
+    border-radius: 50px;
+    padding: 10px;
+}
+.navbgbtn1:hover{
+    color: red;
+
+}
+.nav-link{
+    margin-left: 20px;
+}
+.navfrt{
+    margin-left: 50px;
+    color: rgb(114, 41, 240);
+    font-size: 30px;
+    background-color: rgb(225, 217, 238);
+    padding: 10px;
+    border-radius: 50%;
+}
+@media only screen and (max-width: 425px) {
+    .navfrt {
+     margin-left: 10px;
+    }
+  }
+  /* Footer css */
+  .text11 a{
+    text-decoration: none;
+}
+.ftrbdr{
+    border: none;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.ftrflt{
+    float: right;
+    
+}
+.ftricon{
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.ftrft{
+    font-size: 10px;
+}
+@media screen and (max-width:768px){
+    .ftricon{
+        width: 80%;
+        margin: auto;
+    }
+}
+/* Discover css */
+.dismake{
+    padding-left: 50px;
+    margin-top: 150px;
+    
+}
+.dismkfz{
+    font-size: 50px;
+}
+.disimg{
+    padding-left: 30px;
+    margin-top: 20px;
+}
+.disbgbtn2{
+    background-color: rgb(97, 15, 230);
+    color: white;
+    font-weight: bolder;
+    border-radius: 50%;
+    padding: 30px;
+   
+    margin-top: -350px;
+}
+@media only screen and (max-width: 425px) {
+    .dismake {
+  margin-left: 30px;
+    }
+  }
+@media only screen and (max-width: 768px) {
+    .disimg {
+    width: 100%;
+    }
+  }
+  /* make a burger */
+  .bgclr{
+    background-color:aliceblue;
+    border-radius: 50px;
+  }
+  .mybbtn{
+    float: right;
+    background-color:rgb(97, 15, 230) ;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+  }
+  .mkvle{
+        color:rgb(97, 15, 230 );
+        font-size: 20px;
+        font-weight: bolder;
+        
+  }
+  @media only screen and (max-width: 425px) {
+    .mkigwt {
+    width: 30%;
+    }
+  }
+  
+  @media only screen and (max-width: 375px) {
+    .mkigwt {
+    width: 30%;
+    font-size: 9px;
+    }
+  }
+  .mkbrbtn{
+    border: none;
+  }
+  .mkbrctlt{
+    margin-top: 12px;
+  }
+  .mkbrches{
+    margin-top: 20px;
+  } 
+  .mkbrmaya{
+    margin-top: 16px;
+} 
+.mkbronn{
+    margin-top: 16px;
+}
+.mkbrsld{
+    margin-top: 20px;
+}
+.mkbrtmto{
+    margin-top: 20px;
+}
+.mkbrcucmb{
+    margin-top: 15px;
+}
